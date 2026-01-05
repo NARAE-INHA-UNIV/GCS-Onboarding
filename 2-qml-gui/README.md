@@ -1,4 +1,4 @@
-# 2. PySide6 + QML - QML 입문
+# 2. QML GUI - QML 기본
 
 QML을 사용한 선언적 UI 개발 방법을 배우는 예제입니다.
 

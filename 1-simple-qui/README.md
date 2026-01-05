@@ -1,4 +1,4 @@
-# 1. PySide6 - Qt 입문
+# 1. Simple GUI - PySide6 기본
 
 GCS 개발을 위한 첫 번째 온보딩 예제입니다. PySide6의 기본 사용법을 배웁니다.
 

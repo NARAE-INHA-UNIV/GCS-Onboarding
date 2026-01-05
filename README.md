@@ -4,10 +4,10 @@ Qt와 PySide6를 사용한 GCS 개발을 위한 온보딩 자료입니다.
 
 ## 📋 목차
 
-1. [Simple GUI](#1-simple-qt---pyside6-hello-world) - PySide6 기본
-2. [QML GUI](#2-qml-gui---qml을-이용한-선언적-ui) - QML 기본
-3. [QML Layout](#3-qml-layout---레이아웃-시스템) - RowLayout & ColumnLayout
-4. [Signal-Slot](#4-signal-slot---python과-qml-간-통신) - Python ↔ QML 통신
+1. Simple GUI - PySide6 기본
+2. QML GUI - QML 기본
+3. QML Layout - 레이아웃 시스템 이해하기
+4. Signal-Slot - Python과 QML 간 통신
 
 ## 🎯 학습 목표
 
